@@ -2,6 +2,6 @@
 
 echo "this is the script from github"
 
-NUMBER=$(( $NUMBER1 + $NUMBER2 ))
+NUMBER=$(($NUMBERONE + $NUMBERTWO))
 
 echo $NUMBER
